@@ -1,3 +1,10 @@
+***
+
+**This is a frozen project. It is intended to provide authentic snapshot of the
+history with all the good things and all the things that could be improved.**
+
+***
+
 # Converter for AT89Cx051 programming
 
 The article was published in July 2019 in Czech magazine [Praktická
